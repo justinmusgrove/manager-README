@@ -160,11 +160,13 @@ As of 2016, my [Strengths Finder](https://www.gallupstrengthscenter.com/home/en-
 
 # Links
 
-1.  [Best career advice](https://humanwhocodes.com/blog/2013/10/15/the-best-career-advice-ive-received/)
+1. [Best career advice](https://humanwhocodes.com/blog/2013/10/15/the-best-career-advice-ive-received/)
 
-2.  [Sit at the table](https://www.ted.com/talks/sheryl_sandberg_why_we_have_too_few_women_leaders/transcript?language=en)
+2. [Sit at the table](https://www.ted.com/talks/sheryl_sandberg_why_we_have_too_few_women_leaders/transcript?language=en)
 
-3.  [Fulfilling potential by Simon Sinek](https://www.virgin.com/entrepreneur/editors-letter-simon-sinek-fulfilling-potential)
+3. [Fulfilling potential by Simon Sinek](https://www.virgin.com/entrepreneur/editors-letter-simon-sinek-fulfilling-potential)
+
+4. [It's Dangerous to Go Alone: Battling the Invisible Monsters in Tech](https://www.youtube.com/watch?v=1i8ylq4j_EY)
 
 # References
 
