@@ -164,7 +164,7 @@ As of 2016, my [Strengths Finder](https://www.gallupstrengthscenter.com/home/en-
 
 2.  [Sit at the table](https://www.ted.com/talks/sheryl_sandberg_why_we_have_too_few_women_leaders/transcript?language=en)
 
-3.  [Fulfilling potential by Simon Sinek](ttps://www.virgin.com/entrepreneur/editors-letter-simon-sinek-fulfilling-potential)
+3.  [Fulfilling potential by Simon Sinek](https://www.virgin.com/entrepreneur/editors-letter-simon-sinek-fulfilling-potential)
 
 # References
 
