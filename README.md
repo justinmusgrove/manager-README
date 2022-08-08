@@ -42,7 +42,7 @@ I am a coach at heart.
 
 <td>If you are blocked</td>
 
-<td>Overwhelemed? Can't do your job? Heard a rumor? Need clarification? Blocked on an assignment? Need an unbiased perspective on an issue? Reach out to me and we will find time to work through it together. Don't let anything fester to the point of being a distraction; distractions move us away from action and results.</td>
+<td>Overwhelmed? Can't do your job? Heard a rumor? Need clarification? Blocked on an assignment? Need an unbiased perspective on an issue? Reach out to me and we will find time to work through it together. Don't let anything fester to the point of being a distraction; distractions move us away from action and results.</td>
 
 <td>I want to work with you to remove road blocks, enabling you to be in a healthy and productive state of mind. To do this, I will ask questions, some difficult, some elephant in the room, to help you to move forward.</td>
 
