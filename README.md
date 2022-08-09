@@ -90,7 +90,7 @@ I am a coach at heart.
 
 </table>
 
-# My leadersship style
+# My leadership style
 
 I have a [authentic style of leadership](https://www.forbes.com/sites/kevinkruse/2013/05/12/what-is-authentic-leadership/#118a0f32def7). Qualities include:
 
